@@ -33,5 +33,10 @@ If you do want to run this....you'll have to figure it out yourself (it's not th
 
 **note:** I have included a Dockerfile so you can test this in a containerized environment if you would like to see it run safely!
 
+### Docker (safe way)
+`docker run --rm -it sykeben/mass-encrypt-safe:latest sh` => Then once inside container run `python cryware2.py`
+See results inside `/cryware2/examples/`
+
+
 ## Contact
 Ben Sykes => bensykes12@gmail.com
