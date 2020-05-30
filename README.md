@@ -28,8 +28,7 @@ Python == 2.7.x
 pycryptodome == 3.9.7
 
 ## How to run
-If you do want to run this....you'll have to figure it out yourself (it's not that hard...) because I'm not going to just give the commands right here to potentially destroy data.
-
+If you do want to run this....you'll have to figure it out yourself (it's not that hard...)
 *Hint: generate payload with pyinstaller for best results...*
 
 **note:** I have included a Dockerfile so you can test this in a containerized environment if you would like to see it run safely!
