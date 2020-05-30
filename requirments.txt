@@ -1,0 +1,2 @@
+# Python-Mass-Encrypt/encrypt.py: 7,8
+pycryptodome == 3.9.7
